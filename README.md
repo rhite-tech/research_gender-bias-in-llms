@@ -1,4 +1,4 @@
-# Master Thesis Artificial Intelligence: Assessing and Addressing Gender Bias in Large Language Models
+# Assessing and Addressing Gender Bias in Large Language Models
 
 This repository corresponds to the Master's thesis in Artificial Intelligence by Dennis Agafonov, at University of Amsterdam, 2024. This research is part of a project on Bias Identification methods initiated by Rhite and has been guided and supervised by Rhite and the University of Amsterdam.
 
