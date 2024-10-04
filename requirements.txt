@@ -114,7 +114,7 @@ pywin32==306
 PyYAML==6.0.1
 pyzmq==26.0.2
 regex==2024.4.16
-requests==2.31.0
+requests==2.32.2
 requests-mock==1.12.1
 responses==0.18.0
 rouge_score==0.1.2
