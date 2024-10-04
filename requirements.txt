@@ -151,7 +151,7 @@ torch==2.2.2+cu121
 torchaudio==2.2.2+cu121
 torchtext==0.17.2
 torchvision==0.17.2
-tornado==6.4
+tornado==6.4.1
 tqdm==4.62.3
 traitlets==5.14.3
 transformers==4.40.1
