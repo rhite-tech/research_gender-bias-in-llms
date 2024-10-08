@@ -2,6 +2,12 @@
 
 This repository corresponds to the Master's thesis in Artificial Intelligence by Dennis Agafonov, at University of Amsterdam, 2024. This research is part of a project on Bias Identification methods initiated by Rhite and has been guided and supervised by Rhite and the University of Amsterdam.
 
+**⚠️ Note on Code Quality**
+
+Please note that this code was developed as part of a thesis project and, due to time constraints, has not undergone extensive optimization or formal quality checks. While it serves the primary purpose of supporting the research findings, it may not meet industry standards in terms of performance, maintainability, security or robustness.
+
+Users are welcome to use and explore the code, but we recommend careful consideration and further testing before applying it in any production environment. Contributions for improvements or optimizations are also encouraged.
+
 ## Introduction
 
 This repository contains the code to run the experiments discussed in the thesis. The code for the bias assessment methods is in the folder `Assessment/`. The code for the two variants of the disentanglement model is in the folders `GRU_DM/` and `Transformer_DM/`. The code for the debiasing method is in `Debiasing`.
